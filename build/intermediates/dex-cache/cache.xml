@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mortenjust/code/delete/QuickStartApp/app/libs/huesdkresources.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f13f24ee881ba4e1a7e1410aee7489dc723f1c9b">
+        <dex dex="/Users/mortenjust/code/delete/QuickStartApp/app/build/intermediates/pre-dexed/debug/huesdkresources-cb5563a571175865e1e422ef42a8c24a8e1c2b10.jar" />
+    </item>
+    <item
+        jar="/Users/mortenjust/code/delete/QuickStartApp/app/libs/huelocalsdk.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="507a0ee9dac2b5930e25510b25b4cfe2117dc05a">
+        <dex dex="/Users/mortenjust/code/delete/QuickStartApp/app/build/intermediates/pre-dexed/debug/huelocalsdk-c3c26bf542f42cdde3482272d583b25853a02423.jar" />
+    </item>
+
+</items>
